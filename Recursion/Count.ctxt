@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Count()
+comment1.params=number
+comment1.target=int\ lengthOfNumber(int)
+comment2.params=phrase
+comment2.target=boolean\ palindromeTester(java.lang.String)
+comment3.params=a\ b
+comment3.target=int\ gcd(int,\ int)
+numComments=4
